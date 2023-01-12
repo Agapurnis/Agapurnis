@@ -11,6 +11,6 @@ I'm rather lackluster at using Git or communicating due to my habit of overthink
 Recently I've been interested in working in 'limited' environments, where I have to work within weird confines and do optimizations, creating abstractions so that I can continue building off of what I have.
 
 That might lead me to eventually checking out making myself a (mediocre) compiler of some sort (I'll get you someday, [KCUF](https://www.codewars.com/kata/59f9cad032b8b91e12000035/javascript)...),
-but in reality it's assisting with my habit of (ab)using the TypeScript type system to make abhorrently weird things or overcomplicate simple things so much that you can't modify them anymore.
+but in reality it's assisting with my habit of (ab)using the TypeScript type system to make abhorrently weird things or overcomplicate simple things so much that the restrictions imposed make it impossible to safely extend, thus restarting the cycle.
 
 You can contact me at [mailto:agapurnis@outlook.com](agapurnis@outlook.com), but I rarely ever check it, so you'll probably need to use Discord to friend + message `Vak#1415`. 
