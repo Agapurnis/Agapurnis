@@ -1,6 +1,8 @@
+
+
 Heya, I'm Katini, or Agapurnis, or Vak#1415, or one of many other names. I go by any pronouns.
 
-I'm a moderately experienced TypeScript developer who would like to get into Rust and C#, but I don't have too much experience with them just yet.
+I'm a moderately experienced TypeScript developer who's currently learning Rust.
 
 I've been programming for quite a while, but I’m pretty much entirely self-taught through documentation and don't really have any formal education or work experience with programming, so sorry if I end up doing something foolish.
 
